@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Rogers</title>
+    <description>Edit description in _config.yml</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 04 Jun 2017 15:56:10 -0400</pubDate>
+    <lastBuildDate>Sun, 04 Jun 2017 15:56:10 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>The App Factory at UW-Parkside</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/smallHeadShot.png&quot; alt=&quot;App Factory&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Mister Rogers&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;em&gt;Has it happened yet?&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;…&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Have you had dreams about your code?&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This is how my professor and then-future employer opened class one day in my second semester of Computer Science. When I first started pursuing my degree, yeah, I enjoyed the assignments, tinkering around, and the feeling of accomplishment after finishing a project, but &lt;em&gt;dreaming&lt;/em&gt; about programming? I just couldn’t relate to what he said.
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Down the road in my Software Engineering course, I helped build an Android application that provided specialized functionality for a step-tracking band - seeing the finished product piqued my interest in mobile development. This led to me applying for an intern iOS developer position at the App Factory in December of 2016. After settling in and finding my bearings in &lt;strong&gt;XCode&lt;/strong&gt; and &lt;strong&gt;Swift&lt;/strong&gt;, it all clicked. I understood what he was talking about. From that point on I have been absolutely engulfed by the world of software engineering and fully subscribed to iOS development.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;My Experience at the App Factory&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The App Factory is an interdisciplinary group located on UW-Parkside’s campus. We are made up of faculty mentors and student interns who develop iOS, Android, and web applications.
+&lt;ul&gt;
+  &lt;li&gt;We abide by &lt;strong&gt;Agile Methodologies&lt;/strong&gt;, perform weekly standups, make use of &lt;strong&gt;Jira&lt;/strong&gt; for project management, &lt;strong&gt;Slack&lt;/strong&gt; for communication, and rotate &lt;strong&gt;Scrum&lt;/strong&gt; roles for new projects.&lt;/li&gt;
+  &lt;li&gt;Since we work with real clients, I’ve learned how to communicate ideas to technical and non-techinal people alike.&lt;/li&gt;
+  &lt;li&gt;I’ve dealt with the pressure to deliver a product in time for a hard deadline.&lt;/li&gt;
+  &lt;li&gt;Even just hanging around with other aspiring professionals, whether it’s learning something new or tutoring a new recruit, has molded me into a more well-rounded developer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+I’ve had a blast working in this environment and it’s given me the drive to never stop learning!
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;http://www.appfactoryuwp.com&quot; title=&quot;http://www.appfactoryuwp.com&quot;&gt;App Factory Website&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 31 May 2017 08:32:24 -0400</pubDate>
+        <link>http://localhost:4000/AppFactory</link>
+        <guid isPermaLink="true">http://localhost:4000/AppFactory</guid>
+        
+        
+        <category>imac</category>
+        
+      </item>
+    
+      <item>
+        <title>Frank Lloyd Wright Trail</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/FLW/FLW_1.png&quot; alt=&quot;Frank Lloyd Wright Trail&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Developed through the App Factory&lt;br /&gt;
+Client: SC Johnson &amp;amp; Son, Inc.&lt;br /&gt;
+Initial Release: May 10, 2017&lt;br /&gt;
+iOS Team Size: 2
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The app consists of two main features - the location map view and the trip planner. Most of my work was done on the trip planner. We needed a basic flow to aid user’s planning a trip to visit some of FLW’s buildings that fall on the trail. With the help of &lt;strong&gt;Google’s Directions API&lt;/strong&gt; and &lt;strong&gt;Realm’s Mobile Database&lt;/strong&gt; we came up with a solution.&lt;br /&gt;
+This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help.&lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;Basics of &lt;strong&gt;MVC&lt;/strong&gt; pattern to display data in &lt;strong&gt;Table Views&lt;/strong&gt;/&lt;strong&gt;Collection Views&lt;/strong&gt; and how to pass this data between &lt;strong&gt;View Controllers&lt;/strong&gt; whether through &lt;strong&gt;Segues&lt;/strong&gt; or &lt;strong&gt;Delegation&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Working with &lt;strong&gt;Auto Layout&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Integrating &lt;strong&gt;CocoaPods&lt;/strong&gt; into a project&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Core Location&lt;/strong&gt;: Display distance on the map, and retrieve the starting location coordinates for our API calls in the trip planner.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Realm&lt;/strong&gt;: Persist the user’s trip data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google Maps Directions API&lt;/strong&gt;: Solve the traveling salesman problem in our algorithm by toggling the optimize waypoints option of the API call. Also used to display the duration of the drives between locations.
+    &lt;ul&gt;
+      &lt;li&gt;Not only did the API calls teach me Swift’s way of performing &lt;strong&gt;asynchronous network calls&lt;/strong&gt; but also how to &lt;strong&gt;synchronize&lt;/strong&gt; multiple calls before completion for when users construct multi-day trips.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Itunes Connect&lt;/strong&gt; and &lt;strong&gt;TestFlight&lt;/strong&gt; led to valuable feedback from my colleagues. I learned how to better design user forms. It’s a good idea to assume that user’s are dumb - design the flow as simple as possible and have all &lt;strong&gt;edge cases&lt;/strong&gt; accounted for - commonly mitigated through the use of &lt;strong&gt;UIAlertControllers&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development.
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IS0D_K7hAVU &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Download&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/frank-lloyd-wright-trail/id1166393729?mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;http://www.scjohnson.com/en/company/architecture.aspx&quot; title=&quot;http://www.scjohnson.com/en/company/architecture.aspx&quot;&gt;Client Website&lt;/a&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 May 2017 20:30:00 -0400</pubDate>
+        <link>http://localhost:4000/FLW</link>
+        <guid isPermaLink="true">http://localhost:4000/FLW</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Super Bowl Simulator</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/Matchup/Matchup_1.png&quot; alt=&quot;Frank Lloyd Wright Trail&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Class Project&lt;br /&gt;
+Initial “Release”: May 03, 2017&lt;br /&gt;
+Team Size: 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The app allows users to choose teams from any year that the sports API provides. The API provides stats for the teams that year, which I used to simulate a game between the two teams.    &lt;br /&gt;
+&lt;strong&gt;Algorithm&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;The simulation algorithm uses the teams’ overall wins, division wins, strength of schedule, and total points against stats to produce a matrix of either 0, 3, 7 which represent possible scores.&lt;/li&gt;
+  &lt;li&gt;At random intervals on the score clock, based on their opponents defensive stats they have a chance to randomly select a position in the matrix leading to a possible score. After their attempt, the ball gets turned over to the other team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p class=&quot;content__item-left&quot;&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;The symmetrical design struck me as an opportunity to use &lt;strong&gt;Stack Views&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The team selectors demanded custom &lt;strong&gt;UIPickerViews&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;sportradar’s NFL API&lt;/strong&gt;: More practice calling and parsing network APIs to save to a model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+A simple app that gave me freedom to work creatively and get repetition with data manipulation.
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PO5vxQ0Nigw &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 28 May 2017 20:30:00 -0400</pubDate>
+        <link>http://localhost:4000/Matchup</link>
+        <guid isPermaLink="true">http://localhost:4000/Matchup</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>iOS Development Toolbox</title>
+        <description>&lt;h3 id=&quot;section_title&quot;&gt;Software Tools&lt;/h3&gt;
+&lt;p class=&quot;content__item-left&quot;&gt;
+&lt;a href=&quot;https://developer.apple.com/xcode/&quot; title=&quot;https://developer.apple.com/xcode/&quot;&gt;XCode&lt;/a&gt; - The main hub for development.&lt;br /&gt;
+&lt;a href=&quot;https://www.sourcetreeapp.com&quot; title=&quot;https://www.sourcetreeapp.com&quot;&gt;Sourcetree&lt;/a&gt; - GUI for Git&lt;br /&gt;
+&lt;a href=&quot;https://www.atlassian.com/software/jira&quot; title=&quot;https://www.atlassian.com/software/jira&quot;&gt;Jira&lt;/a&gt;- Powerful project management platform&lt;br /&gt;
+&lt;a href=&quot;https://trello.com&quot; title=&quot;https://trello.com&quot;&gt;Trello&lt;/a&gt; - Simple, lightweight solution for project management&lt;br /&gt;
+&lt;a href=&quot;https://www.sketchapp.com&quot; title=&quot;https://www.sketchapp.com&quot;&gt;Sketch&lt;/a&gt; - Digital design application&lt;br /&gt;
+&lt;a href=&quot;https://www.figma.com/&quot; title=&quot;https://www.figma.com/&quot;&gt;Figma&lt;/a&gt; - Web-based digital design tool that features collaboration&lt;br /&gt;
+&lt;a href=&quot;https://slack.com&quot; title=&quot;https://slack.com&quot;&gt;Slack&lt;/a&gt; - Flexible communication platform&lt;br /&gt;
+&lt;a href=&quot;https://slack.com&quot; title=&quot;https://slack.com&quot;&gt;Realm Browser&lt;/a&gt; - Application for viewing your Realm databases 
+&lt;a href=&quot;http://ohmyz.sh&quot; title=&quot;http://ohmyz.sh&quot;&gt;Oh My Zsh&lt;/a&gt; - Framework for managing zsh configuration
+&lt;a href=&quot;https://www.sublimetext.com&quot; title=&quot;https://www.sublimetext.com&quot;&gt;Sublime Text&lt;/a&gt; - Text editor
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Services&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+&lt;a href=&quot;https://realm.io/docs/swift/2.7.0/api/&quot; title=&quot;https://realm.io/docs/swift/2.7.0/api/&quot;&gt;Realm&lt;/a&gt; - Mobile database and alternative to Core Data for data persistence&lt;br /&gt;
+&lt;a href=&quot;https://firebase.google.com&quot; title=&quot;https://firebase.google.com&quot;&gt;Firebase&lt;/a&gt; - Service provided by Google that features a realtime database, cloud storage, analytics, and more
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Courses/Guides&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+&lt;a href=&quot;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0&quot; title=&quot;https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0&quot;&gt;Apple’s Swift Guide&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11&quot; title=&quot;https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11&quot;&gt;Apple’s App Development With Swift iBook&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120&quot; title=&quot;https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120&quot;&gt;Stanford’s Developing iOS 10 Apps with Swift&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.bignerdranch.com/books/ios-programming/&quot; title=&quot;https://www.bignerdranch.com/books/ios-programming/&quot;&gt;iOS Programming: The Big Nerd Ranch Guide&lt;/a&gt;
+
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Blogs/Podcasts&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+&lt;a href=&quot;https://awesomeswift.com&quot; title=&quot;https://awesomeswift.com&quot;&gt;Awesome Swift&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://littlebitesofcocoa.com&quot; title=&quot;https://littlebitesofcocoa.com&quot;&gt;little bites of cocoa&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+Last updated 06/03/2017
+&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 May 2017 08:32:24 -0400</pubDate>
+        <link>http://localhost:4000/Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/Resources</guid>
+        
+        
+        <category>macbook</category>
+        
+      </item>
+    
+  </channel>
+</rss>
